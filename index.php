@@ -9,8 +9,5 @@
 		<p><b>An LAB 9 Example of PHP in Action</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
-	<h2>PHP Information</h2> 
-		<p> <?php phpinfo(); ?> </p> 
-        <h2>GOOD LUCK EX180 EXAM</h2>
 	</body> 
 </html>
